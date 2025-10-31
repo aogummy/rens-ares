@@ -17,3 +17,4 @@ generateIndex() {
 
 # generate index.html for personas
 generateIndex personas
+generateIndex scripts
