@@ -1,0 +1,7 @@
+include:
+  - scripts
+  - personas
+
+mime_types:
+  as: text/plain
+
